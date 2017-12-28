@@ -9,6 +9,7 @@ $query_builder = TRUE;
 // 'password' => 'Thisismypassword1!',
 // 'database' => 'dragonsTest',
 // 'dbdriver' => 'sqlsrv',
+// PHP Data Objects(PDO) Sample Code:
 
 
 
